@@ -1,8 +1,8 @@
 Active Pool
 
- - Flagship Project - [Language] - [Description]
- - Playground Project - [Language] - [Description]
- - Background Project - [Language] - [Description]
+ - Flagship Project - Bend Web Playground - Typescript/Bend - Environment for experimenting with Bend on the Web 
+ - Playground Project - CFD Simulator - C/Rust (WIP) - Visual Computational Fluid Dynamics simulator 
+ - Background Project - Personal Website - Typescript - Development of personal web presence
 
 Projects (Concepts, No Order)
 
@@ -10,11 +10,8 @@ Projects (Concepts, No Order)
  - Bare Metal OS to IC - C - Operating system that compiles everything to Interaction Combinators
  - Type 1 Hypervisor - C - Bare metal hypervisor for running OSes, targeting x86 architecture
  - 64-bit Computer from Gates - C - Building a computer using primitive functions like nand(a, b)
- - Bend Web Playground - Typescript/Bend - Environment for experimenting with Bend on the Web
- - Personal Website - Typescript - Development of personal web presence
  - FPV Drone Project - [Language] - First-person view drone building and programming
  - CUDA Ray Tracing Kernel - CUDA/C++ - GPU-accelerated ray tracing implementation
- - CFD Simulator - Rust/C++/C - Computational Fluid Dynamics simulatorName - Language - Description)
  - HVM-llvm - C/Rust - LLVM backend for Bend
  - Pangaea - C++/Rust - Rise of Nations/HOI4 based game with multiple planets
  - Retro Computer Emulator - Rust || C - Emulator for old computer hardware like Commodore 64 or Apple ||
@@ -43,4 +40,3 @@ Projects (Finished, No Order)
  - Snake-AI - Python - AI for snake game
  - Maze-Solver - Python - Maze solver using a variant of algorithms (learning)
  - Black-Scholes-Model - Python - Black-Scholes model for NVIDA options pricing
- - 
