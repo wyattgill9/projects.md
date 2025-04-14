@@ -17,6 +17,8 @@ Projects (Concepts, No Order)
  - CFD Simulator - Rust/C++/C - Computational Fluid Dynamics simulatorName - Language - Description)
  - HVM-llvm - C/Rust - LLVM backend for Bend
  - Pangaea - C++/Rust - Rise of Nations/HOI4 based game with multiple planets
+ - Retro Computer Emulator - Rust || C - Emulator for old computer hardware like Commodore 64 or Apple ||
+ - Distributed Systems Simulator - Rust - Distributed systems simulator
 
 Projects (Dropped/Abandoned/Unfinished, No Order)
 
