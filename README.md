@@ -1,6 +1,6 @@
 Active Pool
 
- - Flagship Project - Bend Web Playground - Typescript/Bend - Environment for experimenting with Bend on the Web 
+ - Flagship Project - HVM3-Strict - Haskell/C - Massively parallel, polarized, strict implementation of the HigherOrderVM 
  - Background Project - Personal Website - Typescript - Development of personal web presence
 
 Projects (Concepts, No Order)
